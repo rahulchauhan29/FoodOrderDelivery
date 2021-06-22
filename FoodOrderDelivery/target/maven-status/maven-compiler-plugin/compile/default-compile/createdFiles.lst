@@ -1,0 +1,6 @@
+manager\FileReaderManager.class
+configReader\ConfigFileReader.class
+configReader\TestData.class
+pageFactory\FoodPageFactory.class
+configReader\Validation.class
+manager\CommonFunctions.class
